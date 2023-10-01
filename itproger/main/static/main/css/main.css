@@ -63,3 +63,11 @@ main .features p{
     max-width: 400px;
     margin: 20px auto;
 }
+
+.alert-warning {
+    float: none;
+    clear: both;
+    width: 400px;
+    margin: 20px auto;
+    text-align: center;
+}
